@@ -104,4 +104,4 @@ npm run geo && npm run vo -- --engine yazgi && npm run check && npm run render
 - Some archives (Library of Congress, Gallica) refuse scripted access from some networks. Use their links in a browser instead of working around the block.
 - Photo cards hid a family place in both test runs. `npm run check` now flags it; fix the `cam` before rendering instead of finding it in stills.
 - Don't assume the route of a forced migration: Drama's exchangees mostly left by train through Eastern Thrace, not by ship from Kavala. Draw the documented route, mark it representative, and say in the narration that the family's own route is unknown.
-- e-Devlet PDFs differ in layout (header split, notes block at the end); after importing, compare the person count and a few rows with the PDF.
+- e-Devlet PDFs differ in layout (header split, notes block at the end, the browser's print header and footer when the page was saved with "Print"); after importing, compare the person count and a few rows with the PDF.
