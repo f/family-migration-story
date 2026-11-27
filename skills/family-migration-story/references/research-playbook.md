@@ -93,6 +93,8 @@ Civil registers hide a lot of history. Patterns worth checking:
 - **Grouped register numbers** (same volume and household) = one household at the moment it was registered. Turkish registers continue the late-Ottoman population registers, so a household number can point back to the first registration after arrival.
 - **Surnames** appear in Turkish records after 21 June 1934; a surname on an older ancestor was added later. Surnames often name the village of origin, a trade or a nickname: a lead.
 - **Village renames.** Turkey renamed thousands of villages (mostly 1940s-1980s). Greece renamed most Turkish and Slavic place names in 1926-1928. Look up old/new pairs (Nişanyan Map/Index Anatolicus for Turkey; the Greek "Pandektis" database of name changes).
+- **District instead of village.** A birthplace is often written as the kaza or district, not the village: people registered in one village can have the district's name as birthplace. Villages also moved between districts (a village of district A in 1890 may be in district B today), and the register shows today's district. Check the village's administrative history before reading two place names as a migration.
+- **Today's neighbourhood names.** Registers show the current name of a mahalle. Some Turkish towns renamed most of their neighbourhoods in the Republic (in Burdur about four in five, with names like Zafer, Emek, Sakarya), so a mahalle name can be younger than the people registered in it. Search for the old name ("<town> mahalle isimleri", "şehirsel toponimi") before researching the neighbourhood.
 
 ## 8. The world-events spine
 

@@ -27,6 +27,10 @@ What each archive is good for, and how to get in. Archives marked *(no API)* are
 - **SALT Research** (https://archives.saltresearch.org): Ottoman and Republican photographs, postcards, maps, city plans.
 - **Library of Congress, Abdul Hamid II collection** (*no API* from scripts here; browse on loc.gov): 1880s-1890s photographs of Ottoman schools, barracks, towns.
 - **Atatürk Kitaplığı** (Istanbul Metropolitan Municipality library): digitised Ottoman periodicals, maps, postcards, yearbooks.
+- **Republican Archives (BCA), settlement fonds** (same catalogue as above; codes `272.11`, `272.12` and the `271` iskân registers): what happened to migrants on arrival. Reports such as "in June 1924, 785 people from a kaza were settled in province X", the exchangees' application forms (talepname, naming the home village and the place of settlement), and 1930s settlement registers that list immigrants by village and household. Scholars often tabulate them for one origin district; search DergiPark for "<origin kaza> mübadil iskân" or "<province> mübadil".
+- **Tahrir registers (15th-16th c.)**: Ottoman tax surveys village by village (BOA `TT.d.` series; Tapu Kadastro's Kuyûd-ı Kadîme archive). Published village and nahiye studies on DergiPark show whether a village already existed in, say, 1485, what it grew and which district it belonged to. Useful for an old Anatolian village with no migration in its story.
+- **Temettuat and 1840s population registers (1844-1845)**: household-level income and head counts for towns and villages; many are transcribed in local-history books and articles ("<town> temettuat defteri", "1844 nüfus defteri").
+- **Millî Mücadele'nin Yerel Tarihi 1918-1923** (TÜBA, 2023, open access with DOIs): one chapter per province on 1918-1923: occupations, local resistance, refugee movements. A quick, cited start for those years in any Anatolian province.
 
 ## Population exchange 1923 (Turkey ↔ Greece)
 
@@ -35,6 +39,7 @@ What each archive is good for, and how to get in. Archives marked *(no API)* are
 - **Exchange museums**: e.g. the Mübadele museums in Çatalca and Alaçam; their panels and catalogues cite local numbers.
 - **Standard works**: Kemal Arı, *Büyük Mübadele*; Bruce Clark, *Twice a Stranger*; Renée Hirschon (ed.), *Crossing the Aegean*; Onur Yıldırım, *Diplomacy and Displacement*; Stephen Ladas, *The Exchange of Minorities* (1932, on Internet Archive). The Turkish government published settlement statistics by province (iskân).
 - **Ships**: mübadil transport ships (Gülcemal, Ak Deniz and others) are named in newspapers and memoirs. A specific family's ship is usually oral tradition; check the ship's existence and route, then hedge.
+- **Western Macedonia's Greek-speaking Muslims** (Vallahades; in Turkey "Patriyot"; the kazas of Grebene/Grevena, Nasliç/Neapoli and Kozana): a group with its own literature. Refik Engin (2014) works from the talepnames of 1,857 exchangees from the Grebene area, listing their home villages and the provinces they were sent to; Zeynep Özcan (2024, *Balkan Sosyal Bilimler Dergisi*) reads Grebene as a Patriyot place. Testimonies give the route: on foot to Karaferye (Veria), by train to Selanik, about two weeks at the port, then a ship to İzmir (Ercan Haytoğlu 2006, on Honaz). Özcan notes that they called themselves "Selanik göçmeni" after the port they left from, so "from Selanik" in a family story can mean an inland kaza.
 
 ## Greece
 
@@ -44,6 +49,7 @@ What each archive is good for, and how to get in. Archives marked *(no API)* are
 - **National Library press archive** (https://efimeris.nlg.gr): Greek newspapers.
 - **ELIA, Hellenic Literary and Historical Archive** (https://www.elia.org.gr): photographs, maps, ephemera.
 - **Centre for Asia Minor Studies (Κέντρο Μικρασιατικών Σπουδών)**: oral testimony of Greek refugees from Anatolia, by place of origin. This is the other side of the exchange.
+- **Village-level statistics of Ottoman Macedonia before 1912**: Vasil Kançov, *Македония. Етнография и статистика* (1900); the Greek consular counts of 1904; D. Halkiopoulos (1910). Each counts villages by religion and language and each has an agenda: compare at least two and report the range, not one number. Wikipedia village pages in Greek and Bulgarian usually quote all three.
 
 ## Balkans
 
